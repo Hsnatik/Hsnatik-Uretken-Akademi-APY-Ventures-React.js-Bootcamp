@@ -6,4 +6,6 @@ Bu depo, en yaygın kullanılan HTML, CSS ve JavaScript kodlarından oluşur.
 
 **Ödev 1:**
   <br>  Ödev adı, Hesap Makinesi (Calculator)
-    
+  
+**Ödev 2:**
+  <br>  Ödev adı, CSS ile Sudoku

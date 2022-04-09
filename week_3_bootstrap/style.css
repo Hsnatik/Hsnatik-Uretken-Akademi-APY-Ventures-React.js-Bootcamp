@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(251, 205, 245);
+}
+
+.navbar{
+    background-color: rgb(146, 92, 139);
+    
+}
+
+.navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(221, 237, 78);
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
